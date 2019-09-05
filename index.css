@@ -1,0 +1,47 @@
+#container{
+    padding: 0 35% 0 35%;
+}
+
+label{
+    display: block;
+    padding: 5px;
+}
+
+.sex{
+    width: 20px;
+    height: 20px;
+}
+
+#birthday, #birth_label{
+    margin-top: 10px;
+}
+
+fieldset{
+    margin-top: 20px;
+}
+
+#check1{
+    margin-top: 20px;
+}
+
+#submit_button{
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+}
+
+#submit_button:hover{
+    margin-top: 20px;
+    background-color: red;
+    color: black;
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+}
+
+#email, #fname, #lname, #password, #birthday{
+    border-radius: 10px;
+}
