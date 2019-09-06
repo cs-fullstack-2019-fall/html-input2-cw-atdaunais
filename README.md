@@ -1,5 +1,6 @@
+Score : 4
 # HTML Input 2 CW
-
+#### Partial : email, password, and birthday shoule be required 
 Duplicate the form depicted in the included image. Note the following:
 
 * Use placeholders (hints) where shown
